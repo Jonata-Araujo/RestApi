@@ -1,0 +1,11 @@
+C:\Users\jonat\source\repos\RestAPI01\RestAPI01\bin\Debug\netcoreapp2.0\RestAPI01.deps.json
+C:\Users\jonat\source\repos\RestAPI01\RestAPI01\bin\Debug\netcoreapp2.0\RestAPI01.runtimeconfig.json
+C:\Users\jonat\source\repos\RestAPI01\RestAPI01\bin\Debug\netcoreapp2.0\RestAPI01.runtimeconfig.dev.json
+C:\Users\jonat\source\repos\RestAPI01\RestAPI01\bin\Debug\netcoreapp2.0\RestAPI01.dll
+C:\Users\jonat\source\repos\RestAPI01\RestAPI01\obj\Debug\netcoreapp2.0\RestAPI01.csprojAssemblyReference.cache
+C:\Users\jonat\source\repos\RestAPI01\RestAPI01\obj\Debug\netcoreapp2.0\RestAPI01.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\RestAPI01\RestAPI01\obj\Debug\netcoreapp2.0\RestAPI01.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\RestAPI01\RestAPI01\obj\Debug\netcoreapp2.0\RestAPI01.AssemblyInfo.cs
+C:\Users\jonat\source\repos\RestAPI01\RestAPI01\bin\Debug\netcoreapp2.0\RestAPI01.pdb
+C:\Users\jonat\source\repos\RestAPI01\RestAPI01\obj\Debug\netcoreapp2.0\RestAPI01.dll
+C:\Users\jonat\source\repos\RestAPI01\RestAPI01\obj\Debug\netcoreapp2.0\RestAPI01.pdb
